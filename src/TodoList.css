@@ -1,0 +1,35 @@
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #edeef0;
+    border-radius: 30px;
+    padding-left: 20px;
+    margin-bottom: 25px;
+}
+
+input{
+   flex: 1;
+   border: none;
+   outline: none;
+   background: transparent;
+   padding: 10px;
+   font-weight: 14px;
+   padding: 16px 50px;
+   padding-top: 21px;
+    
+
+}
+.new-task-btn{
+    border: none;
+    outline: none;
+    padding: 16px 50px;
+   background-color: rgb(132, 132, 234);
+   font-size: 16px;
+   cursor: pointer;
+   border-radius: 40px;
+
+}
+.todo-box{
+    background-color: rgb(255, 255, 255);
+}
